@@ -1,6 +1,6 @@
 package scopeandOperators;
 import java.util.Scanner;
-public class Question1 {
+public class Fahrenheit {
 
 	public static void main(String[] args) {
      Scanner scan = new Scanner(System.in);
@@ -12,6 +12,12 @@ public class Question1 {
 	}
 
 }
+
+/*Question 1
+Write a program to convert Celsius to Fahrenheit using appropriate datatypes and literal conventions
+
+*/
+
 // learning 
 /*in real time example we going to use in  weather apps, healthcare 
 automobiles Any system dealing with global temperature data requires this conversion.
