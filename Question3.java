@@ -1,6 +1,6 @@
 package scopeandOperators;
 import java.util.Scanner;
-public class Question3 {
+public class Bitwise{
 
 	public static void main(String[] args)
 	{
@@ -26,3 +26,9 @@ public class Question3 {
 	}
 
 }
+
+/*
+Get two numbers from user and perform bitwise AND< OR, XOR, left and right shift operations on them.
+
+
+*/
