@@ -1,6 +1,6 @@
 package scopeandOperators;
 import java.util.Scanner;
-public class Question2 {
+public class QuadraticEquation  {
 
 	public static void main(String[] args) 
 	{
@@ -39,3 +39,9 @@ public class Question2 {
 	}
 
 }
+/*
+2. Write a program to solve a quadratic equation (ax^2+bx+c). Take a,b and c from user and use quadratic formula.
+
+
+
+*/
